@@ -1,12 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+This is the official github profile for software organization 4C1L.\
+We, as a team of five Computer Science students, design and develop\
+AI related software solution in enterprise level.
 
-**Here are some ideas to get you started:**
+## Team Members
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Project Manager
+
+Elifsena Öz
+
+### Software Designer
+
+Emre Uğur
+
+### System Designer
+
+Barış Yıldırım
+
+### Test and Integration Designer
+
+İpek Öztaş
+
+### Configuration Designer
+
+Ahmet Tuğrul Sağlam
